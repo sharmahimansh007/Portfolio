@@ -22,8 +22,8 @@ export const main = {
 // AboutMe
 export const aboutme = {
   imgLink: "https://avatars.githubusercontent.com/u/96164387?v=4",
-  p1: "Hey, My name is Himanshu Shama. I have completed my Bachelor Degree in Commerce with Applied Economics from Jiwaji University, Gwalior, Madhya Pradesh.",
-  p2: " I'm a passionate and an enthusiastic Web Developer capable of applying programming skills to build exciting and creative projects. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
+  p1: "Hey, My name is Himanshu Shama. I have completed my Bachelor's Degree in Commerce with Applied Economics from Jiwaji University, Gwalior, Madhya Pradesh.",
+  p2: "I'm a passionate and enthusiastic Web Developer capable of applying programming skills to build exciting and creative projects. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills, and knowledge in an organization.",
   p3: "Apart from coding I also like cooking 👨‍🍳, Dancing 🕺🏽, Play Badminton 🏸, Watching Sci-Fi Movies 🎥",
 };
 
