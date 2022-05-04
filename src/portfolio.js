@@ -14,7 +14,7 @@ export const navbar_name = "Himanshu";
 // Main Page
 export const main = {
   name: "Himanshu Sharma",
-  doamin: "A MERN Stack Web Developer",
+  doamin: "A Front-End Web Developer",
   resume:
     "https://drive.google.com/drive/folders/1cmm9v1DG89tRGzTFdS0yclrVDUQa9SMv?usp=sharing",
 };
@@ -29,7 +29,7 @@ export const aboutme = {
 
 // Skills
 export const whatido = {
-  title: "Full Stack Development",
+  title: "Front-End Web Development",
 
   details: [
     "Building responsive website using HTML,CSS,JS,React",
