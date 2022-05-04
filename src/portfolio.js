@@ -16,7 +16,7 @@ export const main = {
   name: "Himanshu Sharma",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/1ivHfhozr2LEZ7oiKgK1G8BlvvLKcqd48/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1cmm9v1DG89tRGzTFdS0yclrVDUQa9SMv?usp=sharing",
 };
 
 // AboutMe
@@ -33,9 +33,9 @@ export const whatido = {
 
   details: [
     "Building responsive website using HTML,CSS,JS,React",
-    "Creating backend application in Node, ExpressJS",
+    // "Creating backend application in Node, ExpressJS",
     "Building Simple RESTful CRUD APIs",
-    "Knowledge of MongoDB Database",
+    // "Knowledge of MongoDB Database",
   ],
   logos: [
     {
@@ -59,16 +59,8 @@ export const whatido = {
       id: "4",
     },
    
-    {
-      name: "NodeJS",
-      iconifyClassName: "logos:nodejs",
-      id: "6",
-    },
-    {
-      name: "ExpressJS",
-      iconifyClassName: "logos:express",
-      id: "7",
-    },
+    
+   
     {
       name: "MongoDB",
       iconifyClassName: "logos:mongodb",
@@ -79,29 +71,10 @@ export const whatido = {
       iconifyClassName: "logos:postman-icon",
       id: "9",
     },
-    {
-      name: "npm",
-      iconifyClassName: "logos:npm-icon",
-      id: "10",
-    },
-    {
-      name: "GIT",
-      iconifyClassName: "logos:git",
-      id: "11",
-    },
-   
-   
     
-    {
-      name: "Netlify",
-      iconifyClassName: "vscode-icons:file-type-netlify",
-      id: "15",
-    },
-    {
-      name: "Vercel",
-      iconifyClassName: "logos:vercel-icon",
-      id: "16",
-    },
+    
+  
+   
   ],
 };
 
@@ -136,6 +109,16 @@ Date/Time of location.`,
     github: "https://github.com/sharmahimansh007/weatherApp",
     link: "https://quirky-wiles-9eca95.netlify.app/",
   },
+  {
+    id: 3,
+    title: "Tic-Tac-Toe",
+    desc: `Mini project of A classic TicTacToe game built using ReactJS.`,
+    feature: `Button for New Game, History of all the wins, etc.`,
+    tech: `Tech Stack: HTML | CSS | React `,
+    img: "https://i.ibb.co/FqCDFPB/Capture.png",
+    github: "https://github.com/sharmahimansh007/Tic-Tac-Toe",
+    link: "https://tic-tac-toe-beta-inky.vercel.app/",
+  }
 ];
 
 // Social Media Links
