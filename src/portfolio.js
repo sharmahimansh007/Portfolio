@@ -57,24 +57,7 @@ export const whatido = {
       name: "ReactJS",
       iconifyClassName: "vscode-icons:file-type-reactjs",
       id: "4",
-    },
-   
-    
-   
-    {
-      name: "MongoDB",
-      iconifyClassName: "logos:mongodb",
-      id: "8",
-    },
-    {
-      name: "Postman",
-      iconifyClassName: "logos:postman-icon",
-      id: "9",
-    },
-    
-    
-  
-   
+    }
   ],
 };
 
