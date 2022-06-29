@@ -57,7 +57,7 @@ export const whatido = {
       name: "ReactJS",
       iconifyClassName: "vscode-icons:file-type-reactjs",
       id: "4",
-    }
+    },
   ],
 };
 
