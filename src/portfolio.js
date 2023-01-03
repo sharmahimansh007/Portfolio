@@ -92,16 +92,7 @@ Date/Time of location.`,
     github: "https://github.com/sharmahimansh007/weatherApp",
     link: "https://quirky-wiles-9eca95.netlify.app/",
   },
-  {
-    id: 3,
-    title: "Tic-Tac-Toe",
-    desc: `Mini project of A classic TicTacToe game built using ReactJS.`,
-    feature: `Button for New Game, History of all the wins, etc.`,
-    tech: `Tech Stack: HTML | CSS | React `,
-    img: "https://i.ibb.co/FqCDFPB/Capture.png",
-    github: "https://github.com/sharmahimansh007/Tic-Tac-Toe",
-    link: "https://tic-tac-toe-beta-inky.vercel.app/",
-  }
+
 ];
 
 // Social Media Links
